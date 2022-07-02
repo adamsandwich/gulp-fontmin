@@ -41,7 +41,8 @@
     "mocha": "7.1.1"
   },
   "publishConfig": {
-    "@adamsandwich:registry": "https://npm.pkg.github.com/"
+    "@adamsandwich:registry": "https://npm.pkg.github.com/",
+    "registry-url": "https://registry.npmjs.org/"
   },
   "bugs": {
     "url": "https://github.com/adamsandwich/gulp-fontmin/issues"
